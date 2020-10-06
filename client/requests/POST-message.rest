@@ -1,0 +1,7 @@
+POST http://localhost:8080/messages 
+content-type: application/json
+
+{
+"body": "Elastic Heart",
+"user": "nir"
+}
